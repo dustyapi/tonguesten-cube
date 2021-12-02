@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tonguesten-cube/static/css/main.d7b0307a.chunk.css",
+    "main.js": "/tonguesten-cube/static/js/main.d1bc879f.chunk.js",
+    "main.js.map": "/tonguesten-cube/static/js/main.d1bc879f.chunk.js.map",
+    "runtime-main.js": "/tonguesten-cube/static/js/runtime-main.73fd0e59.js",
+    "runtime-main.js.map": "/tonguesten-cube/static/js/runtime-main.73fd0e59.js.map",
+    "static/js/2.5297377d.chunk.js": "/tonguesten-cube/static/js/2.5297377d.chunk.js",
+    "static/js/2.5297377d.chunk.js.map": "/tonguesten-cube/static/js/2.5297377d.chunk.js.map",
+    "static/js/3.2796615d.chunk.js": "/tonguesten-cube/static/js/3.2796615d.chunk.js",
+    "static/js/3.2796615d.chunk.js.map": "/tonguesten-cube/static/js/3.2796615d.chunk.js.map",
+    "index.html": "/tonguesten-cube/index.html",
+    "static/css/main.d7b0307a.chunk.css.map": "/tonguesten-cube/static/css/main.d7b0307a.chunk.css.map",
+    "static/js/2.5297377d.chunk.js.LICENSE.txt": "/tonguesten-cube/static/js/2.5297377d.chunk.js.LICENSE.txt",
+    "static/media/LOGO.8454c52e.gif": "/tonguesten-cube/static/media/LOGO.8454c52e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73fd0e59.js",
+    "static/js/2.5297377d.chunk.js",
+    "static/css/main.d7b0307a.chunk.css",
+    "static/js/main.d1bc879f.chunk.js"
+  ]
+}
